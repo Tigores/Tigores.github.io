@@ -1,4 +1,5 @@
 # 个人信息
+<img align="right" height="160" src="photos/xiaohu.jpg">
 
  - 邓小虎/男/1998 
  - 本科/武汉华夏理工学院电子信息专业
