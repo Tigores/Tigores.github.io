@@ -41,5 +41,6 @@
 ### 全国大学生英语竞赛三等奖
 ### 湖北省翻译大赛三等奖
 ### 中国研究生人工智能创新大赛二等奖
+### 华为昇腾AI创新大赛
 ### 软著《航天降落伞缝纫质量视觉检测软件》
-### 《Adaptive Semantic Segmentation in Adverse Weather via Dual-alignment-based Pseudo-Label Optimization》一作（CAA A类会议）
+### 《Adaptive Semantic Segmentation in Adverse Weather via Dual-alignment-based Pseudo-Label Optimization》一作（CAA A类会议）在投
