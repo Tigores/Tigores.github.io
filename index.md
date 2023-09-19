@@ -37,7 +37,7 @@
 
 ---
 # 论文、软著及竞赛经历
-### 研究生连续三年获得三等奖学金
+### 湖南师范大学研究生学业奖学金三等奖
 ### 中国研究生人工智能创新大赛二等奖
 ### 软著《航天降落伞缝纫质量视觉检测软件》
 ### 《Adaptive Semantic Segmentation in Adverse Weather via Dual-alignment-based Pseudo-Label Optimization》一作（CAA A类会议）
